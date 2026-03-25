@@ -31,8 +31,6 @@ Order Behaviour – Time-of-day ordering patterns
 
 ## Key Insights
 
-* Sales peak around mid-month (15th)
-* Sales dip around 25th
 * October sales lower than July due to fewer orders
 * Chicken & Veg categories show major decline
 * Evening orders drop significantly
