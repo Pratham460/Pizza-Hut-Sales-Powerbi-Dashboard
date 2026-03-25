@@ -1,14 +1,14 @@
-# Pizza-Hut-Sales-Powerbi-Dashboard
+Pizza-Hut-Sales-Powerbi-Dashboard
 Power BI dashboard analyzing Pizza Hut sales trends and insights
-# 🍕 Pizza Sales Dashboard (Power BI)
+Pizza Sales Dashboard (Power BI)
 
-## 📊 Overview
+Overview
 
 This project analyzes pizza sales data using Power BI to identify trends, customer behavior, and business insights.
 
 ---
 
-## 📁 Dataset
+Dataset
 
 The dataset includes:
 
@@ -19,17 +19,17 @@ The dataset includes:
 
 ---
 
-## 📊 Dashboard Pages
+Dashboard Pages
 
-* **Overview** – Key KPIs and overall performance
-* **Sales & Time Analysis** – Trends
-* **Product Performance** – Category and product insights
-* **Size & Pricing** – Impact of size and pricing
-* **Order Behaviour** – Time-of-day ordering patterns
+Overview – Key KPIs and overall performance
+Sales & Time Analysis – Trends
+Product Performance – Category and product insights
+Size & Pricing – Impact of size and pricing
+Order Behaviour – Time-of-day ordering patterns
 
 ---
 
-## 🔍 Key Insights
+Key Insights
 
 * Sales peak around mid-month (15th)
 * Sales dip around 25th
@@ -39,7 +39,7 @@ The dataset includes:
 
 ---
 
-## 🛠 Tools Used
+Tools Used
 
 * Power BI
 * Power Query
@@ -47,7 +47,7 @@ The dataset includes:
 
 ---
 
-## 💡 Recommendations
+Recommendations
 
 * Run offers around the 25th
 * Focus on evening promotions
