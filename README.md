@@ -55,6 +55,8 @@ Recommendations
 
 ---
 
-## 📸 Dashboard Preview
+Dashboard Preview
+![Order_Behaviour_page](https://github.com/user-attachments/assets/1b7b77f4-b0af-4592-84af-9e9ee3d20eae)
+![Overview_page](https://github.com/user-attachments/assets/54cc1513-7b3b-479b-ac36-576a3ac71698)
+![Time_Analysis_page](https://github.com/user-attachments/assets/a09ff268-3b15-4ba3-afed-f75abbeaeb7a)
 
-(Add your screenshots here)
